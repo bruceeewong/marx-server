@@ -1,0 +1,8 @@
+const config = {
+  grant_type: "client_credential",
+  appid: "", // 小程序appid
+  secret: "", // 小程序秘钥
+  env: "", // 小程序环境
+};
+
+module.exports = config;
